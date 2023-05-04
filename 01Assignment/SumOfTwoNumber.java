@@ -1,3 +1,4 @@
+//2.Take two numbers and print the sum of both.
 import java.util.Scanner;
 class SumOfTwoNumber
 {

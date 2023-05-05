@@ -1,6 +1,6 @@
 //4.Take 2 numbers as inputs and find their HCF and LCM
 import java.util.Scanner;
-class HCF_LCM{
+class HCF{
   public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
     System.out.println("Enter your first number");
